@@ -1,0 +1,176 @@
+.div-1,
+.div-2,
+.div-3,
+.div-4,
+.div-5,
+.div-6,
+.div-7{
+  margin-top: 190px;
+  margin-bottom: 40px;
+}
+
+
+
+h3 {
+  font-family: Arial;
+  font-size: 30px;
+  display: inline-block;
+}
+
+
+.year-1,
+.year-2,
+.year-3,
+.year-4,
+.year-5,
+.year-6,
+.year-7 {
+  display: inline-block;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: 500px;
+  margin-right: auto;
+  margin-top: -1;
+  margin-bottom: 0px;
+}
+
+.heading-1 {
+  margin-top: 100px;
+  margin-bottom: 0px;
+  font-family: Algerian;
+  font-weight: bolder;
+  font-size: 5000;
+  
+}
+
+
+.paragraph-1 {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 70px
+}
+
+.paragraph-2 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.paragraph-3 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.cast-tvd {
+  font-weight: bold;
+  font-family: Arial Black;
+ 
+}
+
+.paragraph-4 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+.cast-mh {
+  font-weight: bold;
+  font-family: Arial Black;
+}
+
+.paragraph-5 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.paragraph-6 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.cast-obx {
+  font-weight: bold;
+  font-family: Arial Black;
+}
+
+.paragraph-7 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.paragraph-8 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+.cast-tsitp {
+  font-weight: bold;
+  font-family: Arial Black;
+}
+
+.paragraph-9 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.cast-ga {
+  font-weight: bold;
+  font-family: Arial Black;
+}
+
+.paragraph-10 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.cast-w {
+  font-weight: bold;
+  font-family: Arial Black;
+}
+
+.paragraph-11 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.paragraph-12 {
+  font-family: Arial;
+  font-size: 23px;
+  color: rgb(96, 96, 96);
+}
+
+.cast-nhie {
+  font-weight: bold;
+  font-family: Arial Black;
+}
+
+
+.kelvin-producer {
+  text-align: right;
+  font-family: Arial;
+  color: rgb(96, 96, 96);
+  display: block;
+}
+
+
+.software-engineer {
+  text-align: right;
+  font-family: Arial;
+  color: rgb(96, 96, 96);
+  display: block;
+}
+
+
+
+
